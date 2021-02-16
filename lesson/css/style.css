@@ -1,0 +1,53 @@
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+.cont/ainer {
+	border: 2px solid red;
+}
+.header span {
+display: block;
+}
+.section {
+	padding: 30px 0px;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+.form input {
+	margin-bottom: 12px;
+}
+.form-header ,.section-header {
+	margin: 20px auto ;
+	font-size: 20px;
+	font-weight: 900;
+}
+.btn-form {
+margin: 12px auto;
+background-color: #2727d9;
+}
+.feature {
+	margin: 60px auto;
+}
+.feature p {
+	margin-top: 20px;
+}
+.video {
+	margin-bottom: 20px;
+}
+.feature-box {
+	height: 160px;
+}
+.btn-form-2 {
+	margin-bottom: 50px;
+}
+.section-header-clients {
+	margin: 50px auto;
+	font-size: 20px;
+	font-weight: 900;
+}
+.clients-img {
+	margin: 20px auto;
+}
